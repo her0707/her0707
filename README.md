@@ -2,6 +2,7 @@
 <p>
   <a href="https://tech-blog-gray.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-663399?style=flat-square&logo=Gatsby&logoColor=white"/></a>
   <a href="mailto:her2478@gmail.com" target="_blank"><img src="https://img.shields.io/badge/her2478@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/wonho-heo-5b6770265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
 ### Tech Stacks
